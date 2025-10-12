@@ -21,5 +21,5 @@ I'm curious about how software systems work behind the scenes, and I enjoy turni
 ---
 
 ### 🌍 Connect with me
-- 📧 [Email](nappinatale2004.com)
+- 📧 Email: (nappinatale2004.com)
 ---
