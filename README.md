@@ -9,17 +9,10 @@ I'm curious about how software systems work behind the scenes, and I enjoy turni
 ### 🧩 Technologies & Interests
 - **Languages:** C, C++, Java, HTML, CSS, SQL  
 - **Currently exploring:** Web app development, mobile app development, and distributed systems  
-- **Interests:** Software and Web Apps design, problem solving, and creating practical solutions through code
-
----
-
-### 🚀 What I'm working on
-- A web app project for a university course  
-- A mobile application for the Mobile Programming course  
-- Experiments with processes and synchronization in Operating Systems  
+- **Interests:** Software and Web Apps design, problem solving, and creating practical solutions through code  
 
 ---
 
 ### 🌍 Connect with me
-- 📧 Email: (nappinatale2004.com)
+- 📧 Email: (nappinatale2004@gmail.com)
 ---
